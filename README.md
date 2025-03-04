@@ -10,6 +10,8 @@ Dennis Nedry Jurassic Park - Ah Ah Ah, you didn't say the magic word!
 </br>
 Try the demo <a href="https://markhjorth.github.io/nedry/">here</a>
 
+Spanish version <a href="https://samuelmorenov/nedry/">here</a>
+
 ## Additional info
 Copyright (c) 2018 Mark Hjorth
 
